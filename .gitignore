@@ -1,0 +1,9 @@
+__pycache__/
+experiments/*
+!experiments/*.py
+.vscode
+.vscode/*
+*.tar
+*.tar.gz
+*tb_logs 
+cifar-10-batches-py
